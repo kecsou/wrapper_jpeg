@@ -9,3 +9,21 @@
 *.o
 
 *.la
+
+Makefile
+
+CMakeFiles
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+cjpeg
+cmake_install.cmake
+config.log
+config.status
+djpeg
+jconfig.h
+jpegtran
+libtool
+rdjpgcom
+stamp-h1
+wrjpgcom
