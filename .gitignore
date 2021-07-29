@@ -3,3 +3,9 @@
 **/**_program
 
 **/**/output.jpg
+
+*.lo
+
+*.o
+
+*.la
